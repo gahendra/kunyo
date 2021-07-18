@@ -1,6 +1,6 @@
 <h1>Kunyo Test Solution </h1>
 <p>
-    For the required solution, we can use this system made in Laravel. <br>
+    For the required solution, we can use this system made in Laravel(kunyo_test.zip). <br>
     So, please install this system in your local <br>
     The database is also attached(kunyo_test.sql). <br>
     This system allows users to place order, get reward and use reward to place more order. <br>

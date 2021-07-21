@@ -21,6 +21,7 @@
 - The customer can redeem the reward points while placing order.
 - The system supports multi-currency as well, but conversion value is hardcoded for now.
 - USD is the default currency and the data is always saved in USD. The conversion takes place for display only.
+- Only 3 currencies are available(Dollar, Euro and Pound)
 - The currency can be changed by clicking on the top dropdown which appears in Product, Order Placement and Order Listing page.
 - The code and funtions can be found in following files:
   - Routes: routes/web.php
